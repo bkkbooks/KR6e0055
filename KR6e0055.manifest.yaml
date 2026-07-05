@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0055_000.yaml, hash: 'sha256:3e0ff44f862756cf0101a940f5c89f614f4126286683169f5c1cb703f6eca0e8'}
-  - {seq: 1, filename: KR6e0055_001.yaml, hash: 'sha256:3db2ed5e06c56dedbdbacb1894352cdfa9afa75dcd2140196e1a7e14d4d5ef2b'}
+  - {seq: 1, filename: KR6e0055_001.yaml, hash: 'sha256:6287f5c7733019ea5c79c2f5133f8929b3f5a01421f30cd6885b263b6abc51b4'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6e0055_001.markers.yaml, hash: 'sha256:6e27a74390e456214b85f35d61b46b27a0b132e3f5e55a3f5ae3ea988befbc25'}
+  - {seq: 0, role: markers, filename: assets/KR6e0055_000.markers.yaml, hash: 'sha256:4516ee3bbbaa4d0f88e97acd90a0bc01d6d4d59ccaf283674b99d5482bf23c41'}
+  - {seq: 1, role: markers, filename: assets/KR6e0055_001.markers.yaml, hash: 'sha256:b5da69980a0f5e9c22cefb6a0e38aa2e961ddbf228173db76d2acd051435719b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 大方廣佛花嚴經修慈分一卷
   type: juan
   level: 1
-hash: sha256:f9ed443370ce40cb91155c07424b750ed1706a09c68c1339751810a9b4d59f6a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4adecfd2cedeefe963ff07231248ecbd50c1ac7f0b0c98961fc304e724672899
