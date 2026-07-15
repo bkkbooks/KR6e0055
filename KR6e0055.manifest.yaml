@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6e0055/v1
 canonical_location: https://kanripo.org/bkk/KR6e0055/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 大方廣佛花嚴經修慈分
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6e0055_000.yaml, hash: 'sha256:3e0ff44f862756cf0101a940f5c89f614f4126286683169f5c1cb703f6eca0e8'}
-  - {seq: 1, filename: KR6e0055_001.yaml, hash: 'sha256:6287f5c7733019ea5c79c2f5133f8929b3f5a01421f30cd6885b263b6abc51b4'}
+  - {seq: 1, filename: KR6e0055_001.yaml, hash: 'sha256:8cbb9ad8a7b779ad44d1a76b2b02651f5c8442d23df91d460350ac4c7b3ea4ff'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6e0055_000.markers.yaml, hash: 'sha256:4516ee3bbbaa4d0f88e97acd90a0bc01d6d4d59ccaf283674b99d5482bf23c41'}
-  - {seq: 1, role: markers, filename: assets/KR6e0055_001.markers.yaml, hash: 'sha256:b5da69980a0f5e9c22cefb6a0e38aa2e961ddbf228173db76d2acd051435719b'}
+  - {seq: 1, role: markers, filename: assets/KR6e0055_001.markers.yaml, hash: 'sha256:35e70283fd059f169ba86f728ea037a210f39634d353960d071eb1e516019eb0'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 大方廣佛花嚴經修慈分一卷
   type: juan
   level: 1
-hash: sha256:4adecfd2cedeefe963ff07231248ecbd50c1ac7f0b0c98961fc304e724672899
+hash: sha256:e39facc6e968531d224ea53ce0672c238f2190bc7e94cb6a5dedf39070490cb8
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
